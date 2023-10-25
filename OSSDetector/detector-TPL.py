@@ -25,7 +25,7 @@ metaPath		= currentPath + "/../pre/metaInfos_ours_6.0/"
 aveFuncPath		= metaPath + 'aveFuncs'
 weightPath		= metaPath + "weights_ours_6.0/"
 ctagsPath		= "/usr/local/bin/ctags"
-datasetPath     = currentPath + "/../dataset-2"
+datasetPath     = currentPath + "/../sample"
 datePath		= '../repo-date/'
 log = 'shiyandemo'
 
